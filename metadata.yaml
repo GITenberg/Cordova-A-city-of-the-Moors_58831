@@ -1,10 +1,13 @@
 _repo: Cordova-A-city-of-the-Moors_58831
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58831-h/images/cover_lg.jpg
 creator:
   authors:
   - agent_name: Gallichan, Walter M. (Walter Matthew)
     birthdate: 1861
-    deathdate: &id001 1946
+    deathdate: 1946
     gutenberg_agent_id: '42308'
     url: http://www.gutenberg.org/2009/agents/42308
     wikipedia: http://www.gutenberg.org/ebooks/author/45230
@@ -13,10 +16,12 @@ creator:
     - Calvert, A. F. (Albert Frederick)
     - Calvert, Albert F.
     birthdate: 1872
-    deathdate: *id001
+    deathdate: 1946
     gutenberg_agent_id: '39139'
     url: http://www.gutenberg.org/2009/agents/39139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58831#Cordova-A-city-of-the-Moors
 gutenberg_issued: '2019-02-04'
 gutenberg_type: Text
 identifiers:
